@@ -52,20 +52,20 @@
 # npm install cordova-sqlite-storage
   # este comando prepara la app para que tenga almacenamiento propio de sqlite
   
-npm install @ionic-native/core
-  # este comando nos permite acceder a los recursos nativos del telefono
+#npm install @ionic-native/core
+# este comando nos permite acceder a los recursos nativos del telefono
   
-npm install @ionic-native/sqlite
+#npm install @ionic-native/sqlite
   
 ionic cap sync
-  # este comando va a tomar las instalaciones previas las va a paquetizar, para que se comporten como una unica unidad
+# este comando va a tomar las instalaciones previas las va a paquetizar, para que se comporten como una unica unidad
   
   
 
 # para poder usar la camara del dispositivo dentro de la app ya sea en emulador o celular por cable usb hay que ejecutar ciertos comandos
   
-  npm install @capacitor/camera
-  npm install @ionic-native/core
-  ionic cap sync
-  ir a la carpeta de android  y añadir los permisos correspondientes
+#npm install @capacitor/camera
+#npm install @ionic-native/core
+#ionic cap sync
+#ir a la carpeta de android  y añadir los permisos correspondientes
 
