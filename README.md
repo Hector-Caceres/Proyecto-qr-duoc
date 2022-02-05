@@ -1,9 +1,12 @@
 # Proyecto-qr-duoc
  proyecto creado con ionic y angular que marca la asistencia de un estudiante mediante codigo qr
 # Intalaciones requeridas:
+ ```bash
  -Node.js
+ ```
  -Java jdk 8
  -Android Studio
+# pasos que se usaron para crear la app en ionic
 crear carpeta para el proyecto
 # abrir consola como admin y abrir carpeta del proyecto en la consola
 # ejecutar este comando npm install -g @ionic/cli
