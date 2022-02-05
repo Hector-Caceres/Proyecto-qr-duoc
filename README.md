@@ -4,7 +4,9 @@
  ```bash
  -Node.js
  ```
+ ```bash
  -Java jdk 8
+ ```
  -Android Studio
 # pasos que se usaron para crear la app en ionic
 crear carpeta para el proyecto
