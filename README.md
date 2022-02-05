@@ -7,12 +7,20 @@
  ```bash
  -Java jdk 8
  ```
+ ```bash
  -Android Studio
+ ```
 # pasos que se usaron para crear la app en ionic
+```bash
 crear carpeta para el proyecto
-# abrir consola como admin y abrir carpeta del proyecto en la consola
-# ejecutar este comando npm install -g @ionic/cli
-# este comando  hara que node instale globalmente  las lineas de comando de ionic
+```
+```bash
+ abrir consola como admin y abrir carpeta del proyecto en la consola
+ ```
+ ```bash
+ejecutar este comando npm install -g @ionic/cli
+```
+este comando  hara que node instale globalmente  las lineas de comando de ionic
 # ejecutar este comando para crear nuestra aplicacion en ionic
 # ionic start app-register blank 
 # le pedira que framework utilizar en este caso yo utilize angular 
